@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-iPOEB1=github:dailinyang/iPOEB1
+iPOEB1=github:jyicnet/iPOEB1
 ```
